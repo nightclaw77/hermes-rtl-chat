@@ -1,0 +1,10 @@
+{
+  "name": "hermes-rtl-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reversible Persian/Arabic RTL chat plugin for Hermes Desktop",
+  "license": "MIT",
+  "scripts": {"test": "node tests/browser.test.mjs"},
+  "devDependencies": {"playwright": "1.62.1"}
+}
